@@ -5,6 +5,7 @@ import logo from "./workout logo.svg";
 import homeImage from "./home.jpeg"; // Ensure images exist inside src/
 import createImage from "./create.jpeg";
 import goalImage from "./goal.jpeg";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   const [formData, setFormData] = useState({ name: "", email: "", phone: "" });

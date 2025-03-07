@@ -98,7 +98,7 @@ function App() {
 
       {/* Footer */}
       <footer>
-        <p>© 2024 Everything Fitness. All rights reserved.</p>
+        <p>© 2025 Everything Fitness. All rights reserved.</p>
       </footer>
     </div>
   );
